@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://methodfortheunknown.com
+title: 未知術 - method for the unknown
+subtitle: 要成功面對未來的不確定性，必先承認自己不知道
+author: 楊東岳
 simple_search: https://www.google.com/search
 description:
 
