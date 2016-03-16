@@ -9,3 +9,9 @@
 @import "partials";
 @import "plugins/**/*";
 @import "custom/styles";
+div{
+  word-wrap:break-word;
+  .sharing{
+    text-align:left; 
+  }
+}

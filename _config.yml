@@ -13,11 +13,12 @@ description:
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
-date_format: "ordinal"
+date_format: "%A %Y 年 %m 月 %d 日"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
+show_feeds: false  
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: http://example.com
 # RSS feeds can list your email address if you like
 email:
 
@@ -44,7 +45,7 @@ highlighter: pygments # default python pygments have been replaced by pygments.r
 paginate: 10          # Posts per page on the blog index
 paginate_path: "posts/:num"  # Directory base for pagination URLs eg. /posts/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
-excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
+excerpt_link: "深入閱讀"  # "Continue reading" link text at the bottom of excerpted articles
 excerpt_separator: "<!--more-->"
 
 titlecase: true       # Converts page and post titles to titlecase
@@ -74,7 +75,7 @@ twitter_user:
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true 
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -91,11 +92,12 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: methodfortheunknown
+disqus_show_comment_count: 5 
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-75159930-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true 
+
