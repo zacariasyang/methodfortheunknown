@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[未知術 - method for the unknown]]></title>
+  <link href="http://methodfortheunknown.com/atom.xml" rel="self"/>
+  <link href="http://methodfortheunknown.com/"/>
+  <updated>2016-03-16T14:21:30+08:00</updated>
+  <id>http://methodfortheunknown.com/</id>
+  <author>
+    <name><![CDATA[楊東岳]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
