@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://methodfortheunknown.com/sitemap.xml 
+Sitemap: http://methodfortheunknown.com/methodfortheunknown/sitemap.xml 

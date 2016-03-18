@@ -2,15 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[未知術 - method for the unknown]]></title>
-  <link href="http://methodfortheunknown.com/atom.xml" rel="self"/>
-  <link href="http://methodfortheunknown.com/"/>
-  <updated>2016-03-16T14:21:30+08:00</updated>
-  <id>http://methodfortheunknown.com/</id>
+  <link href="http://methodfortheunknown.com/methodfortheunknown/atom.xml" rel="self"/>
+  <link href="http://methodfortheunknown.com/methodfortheunknown/"/>
+  <updated>2016-03-18T18:52:24+08:00</updated>
+  <id>http://methodfortheunknown.com/methodfortheunknown/</id>
   <author>
     <name><![CDATA[楊東岳]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://methodfortheunknown.com/methodfortheunknown/blog/2016/03/18/test/"/>
+    <updated>2016-03-18T18:47:54+08:00</updated>
+    <id>http://methodfortheunknown.com/methodfortheunknown/blog/2016/03/18/test</id>
+    <content type="html"><![CDATA[<p>ttesttestesttestesttestesttest
+testtestesttesttesttestesttest
+testtestesttesttesttestesttest
+testtestesttesttesttestesttest
+testtestes<!--more-->ttesttesttestesttest
+testtestesttesttesttestesttest
+testtestesttesttesttestesttest
+testtestesttesttesttestesttest
+testtestesttesttesttestesttest
+testtestesttesttesttestesttest
+testtestesttesttesttestesttest
+testtestesttesttesttestesttest
+testtestesttesttesttestesttesttesttestesttest
+testtestesttesttesttestesttest</p>
+]]></content>
+  </entry>
   
 </feed>

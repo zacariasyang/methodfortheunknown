@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://methodfortheunknown.com/blog/archives/</loc>
+<loc>http://methodfortheunknown.com/methodfortheunknown/blog/2016/03/18/test/</loc>
+<lastmod>2016-03-18T18:47:54+08:00</lastmod>
 </url>
 <url>
-<loc>http://methodfortheunknown.com/</loc>
+<loc>http://methodfortheunknown.com/methodfortheunknown/blog/archives/</loc>
+</url>
+<url>
+<loc>http://methodfortheunknown.com/methodfortheunknown/</loc>
 </url>
 </urlset>
